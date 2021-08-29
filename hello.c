@@ -3,7 +3,7 @@
  *
  * Date: 2021/08/29
  *
- * A simple name printing program in C
+ * A name printing program in C
  *
  */
 #include <stdlib.h>
