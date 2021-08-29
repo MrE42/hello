@@ -1,9 +1,9 @@
 /**
  * Author: Elijah Schoneweis
  *
- * Date: 2021/08/25
+ * Date: 2021/08/29
  *
- * A simple hello world program in C
+ * A simple name printing program in C
  *
  */
 #include <stdlib.h>
